@@ -14,5 +14,6 @@ puts help
 end
 
 def all_phrases
-      puts #{mario}, #{toadstool}, #{link}
+  group = #{mario}
+  puts group
 end

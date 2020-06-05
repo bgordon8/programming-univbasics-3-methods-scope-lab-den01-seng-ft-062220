@@ -14,5 +14,5 @@ puts help
 end
 
 def all_phrases
-      puts #{mario}
+      puts #{mario}, #{toadstool}, #{link}
 end

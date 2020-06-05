@@ -13,3 +13,6 @@ def link
 puts help
 end
 
+def all_phrases
+puts phrase
+end

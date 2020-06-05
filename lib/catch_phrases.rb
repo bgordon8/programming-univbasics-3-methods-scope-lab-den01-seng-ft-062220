@@ -13,7 +13,3 @@ def link
 puts help
 end
 
-def all_phrases
-  group = #{mario}, #{toadstool}, #{link}
-  puts group
-end

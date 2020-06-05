@@ -1,5 +1,4 @@
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   phrase = "It's-a me, Mario!"
   puts phrase
 end
@@ -15,6 +14,5 @@ puts help
 end
 
 def all_phrases
- group =  #{mario + toadstool + link}
- puts group
+      puts #{mario + toadstool + link}
 end
